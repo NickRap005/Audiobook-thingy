@@ -11,3 +11,4 @@ Key Features:
 - Interpretation of the correct mood for a scene and adjusts character's tone of voice appropriately
 - Pulls information from online sources (wikis, character descriptions, media depictions) to reinforce and correct character portrayals
 - Generate / source music that is appropriate for each scene, punctuate moments with sound effects (EX: Fight scenes)
+- POTENTIAL IDEA: Generate AI video to go along with a scene
